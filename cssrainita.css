@@ -1,0 +1,26 @@
+h1 {
+  color: blue;
+  text-decoration: underline;
+}
+
+h3 {
+  background-color: aqua;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+  text-align: center;
+}
+
+header {
+  border-bottom: 10px dashed blueviolet;
+}
+
+h2 {
+  color: green;
+  text-shadow: 1px 4px 4px rgba(0, 0, 0, 0.8);
+}
+
+h4 {
+  color: blue;
+}
